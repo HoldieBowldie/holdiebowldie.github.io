@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+# Holden Bowlds
+## Freelance Programmer
+
+Welcome to my website! Here you'll find some of my personal projects, as well as my social media links!
